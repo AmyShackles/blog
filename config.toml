@@ -22,23 +22,28 @@ pygmentsCodefencesGuessSyntax = true
   filename = "sitemap.xml"
 
 [[menu.main]]
-  name = "Home"
+  name = "Website"
   weight = 10
+  url = "https://amyshackles.com"
+
+[[menu.main]]
+  name = "Blog Home"
+  weight = 20
   identifier = "home"
   url = "/"
 [[menu.main]]
   name = "Archives"
-  weight = 20
+  weight = 30
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
   name = "Tags"
-  weight = 30
+  weight = 40
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
   name = "Categories"
-  weight = 40
+  weight = 50
   identifier = "categories"
   url = "/categories/"
 
