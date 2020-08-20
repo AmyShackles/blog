@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+a {
+    color: white;
+    font-weight: bold;
+}
+.container {
+    background-color: black;
+    color: rgb(230, 221, 221);
+}
+.post .post-content a {
+    color: pink;
+    word-break: break-word;
+}
+/* .post .post-content .highlight>.chroma, .post .post-content code, .post .post-content pre {
+    background: rgb(31, 30, 30);
+}
+.post .post-content .highlight>.chroma table::after {
+    background: gray;
+    color: whitesmoke;
+}
+*/
+
+.mobile-menu {
+    background-color:  rgb(27, 26, 26);
+}
+.post .post-content p code, .post .post-toc, .post .post-content pre, .post .post-content code {
+    color: whitesmoke;
+    background: rgb(27, 26, 26);
+} 
+@media screen and (max-width: 1200px) {
+    .mobile-navbar {
+        display: block;
+        background-color: black;
+    }
+    .header .site-navbar, .header .logo-wrapper {
+        display: none;
+    }
+}
