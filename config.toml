@@ -50,7 +50,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-
+  gitRepo = "https://github.com/AmyShackles/blog"
   since = "2020"
   # site info (optional)
   keywords = ["blog", "software development"]
