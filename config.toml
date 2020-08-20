@@ -1,4 +1,4 @@
-baseURL = "blog.amyshackles.com"
+baseURL = "https://AmyShackles.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Last Known Good Configuration"
