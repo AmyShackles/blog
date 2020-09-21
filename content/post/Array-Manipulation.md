@@ -2,7 +2,7 @@
 title: "Array Manipulation"
 date: 2020-09-20T15:53:17-07:00
 lastmod: 2020-09-20T15:53:17-07:00
-draft: true
+draft: false
 keywords: []
 tags: ['coding', 'arrays']
 categories: ['code problem']
