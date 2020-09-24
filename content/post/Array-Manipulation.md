@@ -5,7 +5,7 @@ lastmod: 2020-09-20T15:53:17-07:00
 draft: false
 keywords: []
 tags: ['coding', 'arrays']
-categories: ['code problem']
+categories: ['code problem', 'javascript',]
 ---
 
 Problem Statement:
